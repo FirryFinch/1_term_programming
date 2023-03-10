@@ -1,0 +1,10 @@
+lawn лужайка
+tree дерево
+grass трава
+house дом
+fence забор
+window окно
+door дверь
+wall стена
+roof крыша
+flower цветок

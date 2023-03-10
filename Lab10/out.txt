@@ -1,0 +1,10 @@
+door - дверь
+floor - пол
+flower - цветок
+grass - трава
+house - дом
+lawn - лужайка
+roof - крыша
+tree - дерево
+wall - стена
+window - окно
